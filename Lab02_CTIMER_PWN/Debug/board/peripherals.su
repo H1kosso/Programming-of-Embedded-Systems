@@ -1,0 +1,8 @@
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/PSW_Lab02_MO/CMSIS/core_cm33.h:2378:22:__NVIC_EnableIRQ	16	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/PSW_Lab02_MO/CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/PSW_Lab02_MO/drivers/fsl_common_arm.h:514:24:EnableIRQ	24	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/PSW_Lab02_MO/drivers/fsl_ctimer.h:379:20:CTIMER_EnableInterrupts	16	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/PSW_Lab02_MO/drivers/fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+../board/peripherals.c:137:13:CTIMER2_init	16	static
+../board/peripherals.c:158:6:BOARD_InitPeripherals_cm33_core0	8	static
+../board/peripherals.c:167:6:BOARD_InitBootPeripherals	8	static
