@@ -1,11 +1,7 @@
 # Embedded Systems Programming with LPC55S69
 
 Welcome to my repository for embedded systems programming projects using the LPC55S69 microcontroller. This repository serves as a central hub for all the code, documentation, and resources related to my coursework and projects in the field of embedded systems.
-![image](https://github.com/H1kosso/Programming-of-Embedded-Systems/assets/115038725/0ca1a8b4-e6ae-4dce-a72e-e2913fc68109)
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Projects](#projects)
+![image](https://github.com/H1kosso/Programming-of-Embedded-Systems/assets/115038725/0ca1a8b4-e6ae-4dce-a72e-e2913fc68109 =500x400)
 
 
 ## Introduction
