@@ -1,0 +1,9 @@
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_Project_LAb4_MO/drivers/fsl_gpio.h:172:24:GPIO_PinRead	24	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_Project_LAb4_MO/drivers/fsl_rtc.h:397:24:RTC_GetStatusFlags	16	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_Project_LAb4_MO/drivers/fsl_rtc.h:409:20:RTC_ClearStatusFlags	24	static
+../source/LPC55S69_Project_LAb4_MO.c:42:6:RTC_IRQHandler	8	static
+../source/LPC55S69_Project_LAb4_MO.c:49:6:cbENC_INTA	16	static
+../source/LPC55S69_Project_LAb4_MO.c:73:6:cbENC_INTS	16	static
+../source/LPC55S69_Project_LAb4_MO.c:86:6:Analog_Clock	72	static
+../source/LPC55S69_Project_LAb4_MO.c:108:6:Digital_Clock	32	static
+../source/LPC55S69_Project_LAb4_MO.c:122:5:main	8	static

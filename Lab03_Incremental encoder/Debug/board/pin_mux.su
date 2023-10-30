@@ -1,0 +1,12 @@
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_ProjectMOLAB3/device/LPC55S69_cm33_core0.h:31258:24:Chip_GetVersion	16	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_ProjectMOLAB3/drivers/fsl_clock.h:983:20:CLOCK_EnableClock	24	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_ProjectMOLAB3/drivers/fsl_iocon.h:182:22:IOCON_PinMuxSet	24	static
+../board/pin_mux.c:36:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:63:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:122:6:BOARD_InitSWD_DEBUGPins	32	static
+../board/pin_mux.c:255:6:BOARD_InitUSBPins	32	static
+../board/pin_mux.c:359:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:458:6:BOARD_InitBUTTONsPins	40	static
+../board/pin_mux.c:595:6:BOARD_InitI2SPins	48	static
+../board/pin_mux.c:761:6:BOARD_InitACCELPins	24	static
+../board/pin_mux.c:850:6:BOARD_InitPMODPins	8	static

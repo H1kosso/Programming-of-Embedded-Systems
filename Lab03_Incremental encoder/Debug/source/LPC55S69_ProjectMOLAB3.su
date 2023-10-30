@@ -1,0 +1,4 @@
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_ProjectMOLAB3/drivers/fsl_gpio.h:172:24:GPIO_PinRead	24	static
+../source/LPC55S69_ProjectMOLAB3.c:30:6:cbENC_INTA	16	static
+../source/LPC55S69_ProjectMOLAB3.c:49:6:cbENC_INTS	16	static
+../source/LPC55S69_ProjectMOLAB3.c:55:5:main	32	static

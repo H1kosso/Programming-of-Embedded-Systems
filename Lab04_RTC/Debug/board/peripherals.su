@@ -1,0 +1,10 @@
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_Project_LAb4_MO/CMSIS/core_cm33.h:2378:22:__NVIC_EnableIRQ	16	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_Project_LAb4_MO/CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_Project_LAb4_MO/drivers/fsl_common_arm.h:514:24:EnableIRQ	24	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_Project_LAb4_MO/drivers/fsl_rtc.h:464:20:RTC_StartTimer	16	static
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_Project_LAb4_MO/drivers/fsl_rtc.h:477:20:RTC_StopTimer	16	static
+../board/peripherals.c:118:13:FLEXCOMM1_init	8	static
+../board/peripherals.c:162:13:PINT_init	8	static
+../board/peripherals.c:243:13:RTC_init	8	static
+../board/peripherals.c:261:6:BOARD_InitPeripherals_cm33_core0	8	static
+../board/peripherals.c:272:6:BOARD_InitBootPeripherals	8	static

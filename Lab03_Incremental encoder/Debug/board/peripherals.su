@@ -1,0 +1,5 @@
+/Users/ki_15/Documents/MCUXpressoIDE_11.8.0_1165/workspace/LPC55S69_ProjectMOLAB3/CMSIS/core_cm33.h:2575:22:__NVIC_SetPriority	16	static
+../board/peripherals.c:117:13:FLEXCOMM1_init	8	static
+../board/peripherals.c:161:13:PINT_init	8	static
+../board/peripherals.c:181:6:BOARD_InitPeripherals_cm33_core0	8	static
+../board/peripherals.c:191:6:BOARD_InitBootPeripherals	8	static
